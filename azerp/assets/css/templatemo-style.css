@@ -113,7 +113,7 @@ section {
 	padding-right: 0px;
 }
 .main-banner .banner-content {
-	background-image: url(../images/a1.jpg);
+	/* background-image: url(../images/a1.jpg); */
 	background-size: cover;
 	background-repeat: no-repeat;
 }
